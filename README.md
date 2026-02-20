@@ -19,8 +19,8 @@
 ## 🏭 What I Do in Production
 
 ```text
-🤖  Head of AI, Data & Technology @ Teknor Apex
-    └── 500+ enterprise users | 12 manufacturing plants | 1000+ autonomous decisions/day
+🤖  AI Architect & Enterprise AI Leader | 20+ Years Experience
+    └── 500+ enterprise users | 12-plant manufacturing AI | 1000+ autonomous decisions/day
 
 🎓  Udemy Instructor — Enterprise Data Analytics with Microsoft Fabric Data Agents
 
